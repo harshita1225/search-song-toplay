@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: []()
+- Live Site URL: [https://harshita1225.github.io/search-song-toplay/](https://harshita1225.github.io/search-song-toplay/)
 
 ### The challenge
 
@@ -16,8 +16,8 @@
 
 ### Screenshot
 
-![Desktop Layout](./Screenshot%20from%202022-11-07%2021-21-13.png)
 ![Desktop Layout](./Screenshot%20from%202022-11-07%2021-20-41.png)
+![Desktop Layout](./Screenshot%20from%202022-11-07%2021-21-13.png)
 
 ### Built with
 
